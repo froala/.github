@@ -3,7 +3,9 @@
 [![Build Status](https://api.travis-ci.com/froala-labs/froala-editor-js-2.svg?token=RmiyW7AecDyQ8ja7VMDj&branch=master)](https://travis-ci.com/froala-labs/froala-editor-js-2)
 [![npm](https://img.shields.io/npm/dm/froala-editor.svg)](https://www.npmjs.com/package/froala-editor)
 [![npm](https://img.shields.io/npm/v/froala-editor.svg)](https://www.npmjs.com/package/froala-editor)
-
+---
+[<img src="https://github.com/fusioncharts/.github/raw/master/profile/js-days-banner.png" alt="JSDays - All JavaScript. All Day. All Virtual" width="100%">](https://www.jsdays.io/)
+---
 Froala WYSIWYG HTML Editor is one of the most powerful JavaScript rich text editors ever.
 
 ![WYSIWYG HTML Editor](https://raw.githubusercontent.com/froala/wysiwyg-editor/master/editor.jpg)
