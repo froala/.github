@@ -1,6 +1,5 @@
-# [Froala Editor V4](https://www.froala.com/wysiwyg-editor)
+# [Froala Editor V5](https://www.froala.com/wysiwyg-editor)
 
-[![Build Status](https://api.travis-ci.com/froala-labs/froala-editor-js-2.svg?token=RmiyW7AecDyQ8ja7VMDj&branch=master)](https://travis-ci.com/froala-labs/froala-editor-js-2)
 [![npm](https://img.shields.io/npm/dm/froala-editor.svg)](https://www.npmjs.com/package/froala-editor)
 [![npm](https://img.shields.io/npm/v/froala-editor.svg)](https://www.npmjs.com/package/froala-editor)
 ---
@@ -167,6 +166,7 @@ For more details on customizing the editor, please check the editor [documentati
 - Vue JS: <https://github.com/froala/vue-froala-wysiwyg/>
 - Yii2: <https://github.com/froala/yii2-froala-editor>
 - Wordpress: <https://github.com/froala/wordpress-froala-wysiwyg>
+- SVELTE: <https://github.com/froala/svelte-froala-wysiwyg>
 
 ## Browser Support
 
@@ -177,7 +177,6 @@ At present, we officially aim to support the last two versions of the following 
 - Firefox
 - Safari
 - Opera
-- Internet Explorer 11
 - Safari iOS
 - Chrome, Firefox and Default Browser Android
 
@@ -189,14 +188,13 @@ At present, we officially aim to support the last two versions of the following 
 - License Agreement: [www.froala.com/wysiwyg-editor/terms](https://www.froala.com/wysiwyg-editor/terms)
 - Support: [wysiwyg-editor.froala.help](https://wysiwyg-editor.froala.help/hc/en-us)
 - Roadmap & Feature Requests: [https://wysiwyg-editor-roadmap.froala.com](https://wysiwyg-editor-roadmap.froala.com)
-- Issues [Repo guidelines](https://github.com/highcharts/highcharts/blob/master/repo-guidelines.md)
 
 ## Reporting Issues
 
 We use GitHub Issues as the official bug tracker for the Froala WYSIWYG HTML Editor. Here are some advices for our users that want to report an issue:
 
-1. Make sure that you are using the latest version of the Froala WYSIWYG Editor. The issue that you are about to report may be already fixed in the latest master branch version: <https://github.com/froala/froala-wysiwyg/tree/master/js>.
-2. Providing us reproducible steps for the issue will shorten the time it takes for it to be fixed. A JSFiddle is always welcomed, and you can start from this [basic one](https://jsfiddle.net/froala/wc5c3jhk/).
+1. Make sure that you are using the latest version of the Froala WYSIWYG Editor. The issue that you are about to report may be already fixed in the latest master branch version: <https://github.com/froala/wysiwyg-editor/tree/master/js>.
+2. Providing us reproducible steps for the issue will shorten the time it takes for it to be fixed. A JSFiddle is always welcomed, and you can start from this [basic one](https://jsfiddle.net/froala/cgu0dmxh/).
 3. Some issues may be browser specific, so specifying in what browser you encountered the issue might help.
 
 ## Technical Support or Questions
@@ -205,4 +203,9 @@ If you have questions or need help integrating the editor please [contact us](ht
 
 ## Licensing
 
-In order to use the Froala Editor you have to purchase one of the following licenses according to your needs. You can find more about that on our website on the [pricing plan page](https://www.froala.com/wysiwyg-editor/pricing).
+All plugins would be restricted for an unlicensed version. To try out the full functionality, you’ll need to register for a trial license [here](https://froala.com/get-trial-key/), which is valid for a limited time.
+
+To continue using the Froala Editor beyond the trial period, you’ll need to purchase a commercial license that suits your use case.
+For more details, visit our [pricing plan page](https://www.froala.com/wysiwyg-editor/pricing).
+
+This software includes open-source components. License information is available in the License file in the root folder.
